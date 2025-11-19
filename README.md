@@ -1,4 +1,4 @@
-<!-- <img alt="banner" src="./assets/banner1.png" /> -->
+<!-- <img alt="shamim-ahmmed-git-banner" src="./assets/shamim-ahmmed-git-banner.png" /> -->
 
 # 👋 Hi, I'm **Shamim Ahmmed**
 A passionate **MERN Stack Developer** and **Full-Stack Problem Solver**. I love building creative digital products, teaching what I learn, and helping others grow in the tech world.
