@@ -27,6 +27,21 @@ Outside of coding, I enjoy **writing articles**, exploring new technologies, and
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 ---
+## 📂 Featured Projects
+
+### 🎓 [ScholarStream – Scholarship Management Platform](https://scholar-stream-client.vercel.app/)
+A full-featured scholarship management system for searching, applying, and tracking scholarships with role-based access.  
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase, Stripe
+
+### 🎨 [Creatify – Artwork Showcase Platform](https://creatify-artwork.netlify.app/)
+An artwork showcase platform where users can upload, explore, and favorite creative artworks.  
+**Tech Stack:** React, Node.js, Express, MongoDB, Firebase
+
+### 🛒 [Next-Ecommerce – E-Commerce Platform](https://next-ecommerce190.vercel.app/)
+A complete e-commerce solution with product management, authentication, and order processing.  
+**Tech Stack:** Next.js, Node.js, Express, MongoDB, NextAuth
+
+---
 
 ## 📊 GitHub Stats
 
